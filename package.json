@@ -1,0 +1,26 @@
+{
+  "name": "exercicios-3ds",
+  "version": "1.0.0",
+  "description": "Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauriene9090/exercicios-3ds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lauriene9090/exercicios-3ds/issues"
+  },
+  "homepage": "https://github.com/Lauriene9090/exercicios-3ds#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6"
+  }
+}
