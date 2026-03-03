@@ -1,4 +1,8 @@
-export function validarPedido(pedido: any): boolean {
+  function validarPedido(pedido) {
+
+  if (!pedido) {
+    return false
+  }
 
   if (!pedido.cliente) {
     return false
@@ -14,3 +18,5 @@ export function validarPedido(pedido: any): boolean {
 
   return true
 }
+
+module.exports = { validarPedido }
