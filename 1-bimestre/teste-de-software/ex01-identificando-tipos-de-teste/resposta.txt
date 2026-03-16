@@ -1,0 +1,5 @@
+1. Testar uma função isolada é um teste unitário, ele verifica apenas uma pequena parte do código, como uma função ou método, sem depender de outros sistemas
+
+2. Testar a API junto com o banco de dados é um teste de integração, porque verifica se diferentes partes do sistema funcionam corretamente quando trabalham juntas.
+
+3. A principal ideia do TDD (Test Driven Development) é escrever os testes antes de desenvolver o código. Primeiro cria-se o teste, depois o código necessário para fazê-lo passar.
