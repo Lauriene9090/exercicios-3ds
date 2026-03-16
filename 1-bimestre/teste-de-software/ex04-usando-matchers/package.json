@@ -1,0 +1,19 @@
+{
+  "name": "ex04-usando-matchers",
+  "version": "1.0.0",
+  "description": "Crie testes que validem:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
