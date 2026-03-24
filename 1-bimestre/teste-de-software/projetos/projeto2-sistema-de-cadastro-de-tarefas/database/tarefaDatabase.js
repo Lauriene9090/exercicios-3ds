@@ -1,4 +1,3 @@
+const tarefas = []
 
-const tarefas = [];
-
-module.exports = tarefas;
+module.exports = tarefas
